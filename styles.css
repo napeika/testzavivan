@@ -1,12 +1,9 @@
 @font-face {
-
-font-family: 'Noto Sans';
-src:
-url('NotoSans-SemiBold.ttf') format('ttf'), #можнооставитьодно
-font-weight: 100;
-font-style: normal; // это для стиля (обычный, курсив, зачеркнутый и т.д.)
+    font-family: NotoSans; /* Гарнитура шрифта */
+    src: url(NotoSans-SemiBold.ttf); /* Путь к файлу со шрифтом */
+   }
 body {
-    font-family: NotoSans-SemiBold.ttf;
+    font-family: NotoSans, 'Comic Sans MS';;
     background-color: #090a0a;
     color: #333;
     display: flex;
