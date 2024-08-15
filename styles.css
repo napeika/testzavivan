@@ -2,11 +2,11 @@
 
 font-family: 'Noto Sans';
 src:
-url('ссылка_на_файл_шрифта.woff2') format('Noto Sans'), #можнооставитьодно
+url('NotoSans-SemiBold.ttf') format('ttf'), #можнооставитьодно
 font-weight: 100;
 font-style: normal; // это для стиля (обычный, курсив, зачеркнутый и т.д.)
 body {
-    font-family: Plus Jakarta Sans;
+    font-family: NotoSans, semibold;
     background-color: #090a0a;
     color: #333;
     display: flex;
