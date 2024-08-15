@@ -1,6 +1,9 @@
-
+@font-face {
+    font-family: Noto Sans; /* Гарнитура шрифта */
+    src: url(NotoSans-Semibold.ttf); /* Путь к файлу со шрифтом */
+   }
 body {
-    font-family: Arial, sans-serif;
+    font-family: Noto Sans, semibold;
     background-color: #f0f0f0;
     color: #333;
     display: flex;
