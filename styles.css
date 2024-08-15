@@ -1,3 +1,10 @@
+@font-face {
+
+font-family: 'Noto Sans';
+src:
+url('ссылка_на_файл_шрифта.woff2') format('Noto Sans'), #можнооставитьодно
+font-weight: 100;
+font-style: normal; // это для стиля (обычный, курсив, зачеркнутый и т.д.)
 body {
     font-family: Plus Jakarta Sans;
     background-color: #090a0a;
