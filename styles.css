@@ -6,7 +6,7 @@ url('NotoSans-SemiBold.ttf') format('ttf'), #можнооставитьодно
 font-weight: 100;
 font-style: normal; // это для стиля (обычный, курсив, зачеркнутый и т.д.)
 body {
-    font-family: NotoSans, semibold;
+    font-family: NotoSans-SemiBold.ttf;
     background-color: #090a0a;
     color: #333;
     display: flex;
