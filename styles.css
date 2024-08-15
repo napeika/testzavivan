@@ -3,7 +3,7 @@
     src: url(NotoSans-SemiBold.ttf); /* Путь к файлу со шрифтом */
    }
 body {
-    font-family: NotoSans, 'Comic Sans MS';;
+    font-family: NotoSans, 'Comic Sans MS';
     background-color: #090a0a;
     color: #333;
     display: flex;
